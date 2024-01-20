@@ -1,4 +1,4 @@
-Platform-Samples (C) 2021-2022
+Platform-Samples (C) 2021-2024
 ================
 
 This is a public place for all sample projects related to the GitHub Platform.
